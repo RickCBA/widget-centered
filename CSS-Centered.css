@@ -289,7 +289,7 @@
 
         border-radius: var(--chat--toggle--border-radius);
 
-        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Picture_1-removebg-preview.png?raw=true");
+        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Alan%20Toggle%20Button.png?raw=true");
 
         background-size: cover;
 
@@ -309,13 +309,13 @@
 
       #n8n-chat-widget-2 .chat-window-wrapper .chat-window-toggle:hover {
 
-        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Picture_1-removebg-preview.png?raw=true");
+        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Alan%20Toggle%20Button.png?raw=true");
 
       }
 
       #n8n-chat-widget-2 .chat-window-wrapper .chat-window-toggle:active {
 
-        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Picture_1-removebg-preview.png?raw=true");
+        background-image: url("https://github.com/RickCBA/widget-centered/blob/main/Alan%20Toggle%20Button.png?raw=true");
 
       }
 
