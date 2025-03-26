@@ -242,6 +242,9 @@
 
       }
 
+::-webkit-input-placeholder {
+    color: #000000 !important;
+}
       /* Send button styling */
 
       #n8n-chat-widget-2 .chat-footer button {
